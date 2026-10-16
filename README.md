@@ -19,7 +19,7 @@ Currently seeking **full-time Data Analyst roles** and available for **freelance
 
 ## 📂 Featured Portfolio Projects
 
-### 📈 [Apex Commerce: Sales & Revenue Leakage Analysis](https://github.com/abdulrafiumunirudeenakofe-Analyst)
+### 📈 [Apex Commerce: Sales & Revenue Leakage Analysis](https://github.com/abdulrafiumunirudeenakofe-Analyst/Sale-Analysis))
 * Designed a 3-tier executive dashboard in Excel tracking **$585K+ in gross revenue** across 3,000 transactions.
 * Diagnosed financial inefficiencies, uncovering **$165.6K in revenue leakage** caused by cancellations and refunds.
 * Segmented top product lines, channel conversion rates, and regional demand using interactive slicers and advanced measures.
